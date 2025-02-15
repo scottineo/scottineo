@@ -8,8 +8,10 @@ Sou uma pessoa curiosa que busca sempre aprender como as coisas funcionam. Tenho
 
 ## Projetos
 
-*   [Checador de palíndromos](https://github.com/scottineo/estudo/tree/main/palindrome_checker): Um script simples que verifica se um texto inserido é ou não um palíndromo, guiado pelo freeCodeCamp.
-*   [Pong](https://github.com/scottineo/estudo/tree/main/pong): Um jogo simples de ping pong.
+*    [Pong](https://github.com/scottineo/estudo/tree/main/pong): Um jogo simples de ping pong usando classes.
+*    [Conversor de números romanos](https://github.com/scottineo/estudo/tree/main/pong): programa que converte o número arábico dado em um número romano usando dois loops.
+*    [Checador de palíndromos](https://github.com/scottineo/estudo/tree/main/palindrome_checker): Um script simples que verifica se um texto inserido é ou não um palíndromo, guiado pelo freeCodeCamp.
+
 
 ## Tecnologias
 

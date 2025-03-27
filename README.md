@@ -15,11 +15,11 @@ Sou uma pessoa curiosa que busca sempre aprender como as coisas funcionam. Tenho
 
 ## Tecnologias
 
+*   Java
 *   JavaScript
 *   HTML
 *   CSS
 *   Python
-*   Java
 
 ## Contato
 

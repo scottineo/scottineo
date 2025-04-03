@@ -8,7 +8,7 @@ Sou uma pessoa curiosa que busca sempre aprender como as coisas funcionam. Tenho
 
 ## Projetos
 Java
-*    [Conta bancária]([https://github.com/scottineo/estudo/tree/main/pong](https://github.com/scottineo/conta01)): Sistema bancário simples, sem interface do usuário, para praticar a estrutura do Java.
+*    [Conta bancária](https://github.com/scottineo/conta01): Sistema bancário simples, sem interface do usuário, para praticar a estrutura do Java.
 Javascript
 *    [Pong](https://github.com/scottineo/estudo/tree/main/pong): Um jogo simples de ping pong usando classes.
 *    [Conversor de números romanos](https://github.com/scottineo/estudo/tree/main/pong): programa que converte o número arábico dado em um número romano usando dois loops.

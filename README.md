@@ -24,7 +24,7 @@ Sou uma pessoa curiosa que busca sempre aprender como as coisas funcionam. Tenho
 ## Contato
 
 *   Email: henriquemsousa5@gmail.com
-*   LinkedIn: 
+*   [LinkedIn](https://www.linkedin.com/in/luiz-henrique-machado/) 
 
 <!---
 scottineo/scottineo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

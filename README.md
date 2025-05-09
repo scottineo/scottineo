@@ -4,7 +4,7 @@ Estudante de programação ansioso para criar coisas interessantes.
 
 ## Sobre Mim
 
-Sou uma pessoa curiosa que busca sempre aprender como as coisas funcionam. Tenho experiência com JavaScript e estou explorando Java e Python. Meu foco principal é desenvolviemento Back-End.
+Sou uma pessoa curiosa que busca sempre aprender como as coisas funcionam. Tenho experiência com Java e JavaScript e estou explorando eles e as potencialidades com o SpringBoot e o React, além de já ter experiencia com Git, testes e bancos de dado SQL. Estou "desenvolvendo" uma carreira em Back-End.
 
 ## Projetos
 *    [Conta bancária](https://github.com/scottineo/conta01): Sistema bancário simples, sem interface do usuário, para praticar a estrutura do Java.

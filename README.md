@@ -7,7 +7,7 @@ Estudante de programação ansioso para criar coisas interessantes.
 Sou uma pessoa curiosa que busca sempre aprender como as coisas funcionam. Tenho experiência com Java e JavaScript e estou explorando eles e as potencialidades com o SpringBoot e o React, além de já ter experiencia com Git, testes e bancos de dado SQL. Estou "desenvolvendo" uma carreira em Back-End.
 
 ## Projetos
-*    [Aplicativo de caronas](https://github.com/Turma-81-grupo-4/Aplicativo-Carona/tree/refactor/estrutura-entidades): Sistema de caronas compartilhadas entre Usuários motoristas e passageiros, CRUD completo das entidades Usuario, Carona e Passagem.
+*    [Aplicativo de caronas](https://github.com/Turma-81-grupo-4/Aplicativo-Carona/): Sistema de caronas compartilhadas entre Usuários motoristas e passageiros, CRUD completo das entidades Usuario, Carona e Passagem.
 *    [Sistema de estoque](https://github.com/scottineo/projeto_final_bloco_02): CRUD entre entidades Produto e Categoria em uma farmácia.
 *    [Conta bancária](https://github.com/scottineo/conta01): Sistema bancário simples, sem interface do usuário, para praticar a estrutura do Java.
 *    [Pong](https://github.com/scottineo/estudo/tree/main/pong): Um jogo simples de ping pong usando classes.

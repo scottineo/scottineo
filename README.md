@@ -8,6 +8,7 @@ Sou uma pessoa curiosa que busca sempre aprender como as coisas funcionam. Tenho
 
 ## Projetos
 *    [Aplicativo de caronas](https://github.com/Turma-81-grupo-4/Aplicativo-Carona/): Sistema de caronas compartilhadas entre Usuários motoristas e passageiros, CRUD completo das entidades Usuario, Carona e Passagem.
+*    [Blog Pessoal](https://github.com/scottineo/blogpessoal): Aplicação para criação e leitura de postagens usando Spring no back-end e React no front-end (em desenvolvimento).
 *    [Sistema de estoque](https://github.com/scottineo/projeto_final_bloco_02): CRUD entre entidades Produto e Categoria em uma farmácia.
 *    [Conta bancária](https://github.com/scottineo/conta01): Sistema bancário simples, sem interface do usuário, para praticar a estrutura do Java.
 *    [Pong](https://github.com/scottineo/estudo/tree/main/pong): Um jogo simples de ping pong usando classes.

@@ -12,10 +12,10 @@ Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de micro
 
 Aqui estão alguns dos projetos em que trabalhei. Para uma visão geral dos meus principais projetos, confira meus repositórios fixados!
 
-*   **Aplicativo de caronas**: [Aplicativo de caronas](https://github.com/scottineo/Aplicativo-Carona): Sistema de caronas compartilhadas que conecta motoristas e passageiros. (Tecnologias: Java, Spring Boot, MySQL)
+*   **Aplicativo de caronas - Back-end**: [Aplicativo de caronas](https://github.com/scottineo/Aplicativo-Carona): Sistema de caronas compartilhadas que conecta motoristas e passageiros. (Tecnologias: Java, Spring Boot, MySQL)
     *   *Aprendizado/Destaque*: Implementação de CRUD completo para Usuários, Caronas e Passagens, focando em boas práticas de API REST.
-*   **Aplicativo de caronas**: [Aplicativo de caronas](https://github.com/scottineo/React-Aplicativo-Carona): Sistema de caronas compartilhadas que conecta motoristas e passageiros. (Tecnologias: TypeScript, React, CSS)
-    *   *Aprendizado/Destaque*: Implementação de CRUD completo para Usuários, Caronas e Passagens, focando em boas práticas de API REST.
+*   **Aplicativo de caronas - Front-end**: [Aplicativo de caronas](https://github.com/scottineo/React-Aplicativo-Carona): Sistema de caronas compartilhadas que conecta motoristas e passageiros. (Tecnologias: TypeScript, React, CSS)
+    *   *Aprendizado/Destaque*: Aplicação responsiva com componentização e reutilização de recursos. Implementadas as APIs de geolocalização do Google e o sistema de pagamento AbacatePay.
 *   **Blog Pessoal**: [Blog Pessoal](https://github.com/scottineo/blogpessoal): Aplicação full-stack para criação e leitura de postagens. (Tecnologias: Java, Spring Boot, React, MySQL) - *Em desenvolvimento*
     *   *Aprendizado/Destaque*: Integração entre back-end Spring e front-end React, explorando componentização e gerenciamento de estado.
 *   **Sistema de estoque**: [Sistema de estoque](https://github.com/scottineo/projeto_final_bloco_02): Sistema de gerenciamento de estoque para uma farmácia. (Tecnologias: Java, Spring Boot, MySQL)
